@@ -1,2 +1,2 @@
 # github_vantan_conflicttest3
-git_test
+## githubのconflictを直すテストの三回目です。
