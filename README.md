@@ -1,2 +1,3 @@
 # github_vantan_conflicttest3
-git_test
+- もう疲れたのでテストしたくないです。
+- 多分これがラストです。
